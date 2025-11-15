@@ -4,8 +4,7 @@ Last updated: 01 October 2025
 Bondi is committed to protecting minors and preventing child sexual abuse and exploitation (CSAE).
 We maintain strict policies, proactive detection mechanisms, and a zero-tolerance approach toward harmful behavior.
 
-## 1. No Minors Allowed.
-
+## 1. No Minors Allowed
 Bondi is strictly for users 18 years and older.
 We do not knowingly permit anyone under 18 to access the service.
 Accounts suspected of belonging to minors are immediately suspended and investigated.
@@ -13,8 +12,7 @@ Verified underage accounts are deleted permanently.
 
 ---
 
-## 2. Zero-Tolerance Policy for Child Sexual Abuse and Exploitation (CSAE).
-
+## 2. Zero-Tolerance Policy for Child Sexual Abuse and Exploitation (CSAE)
 Bondi strictly prohibits:
 
 - Sexual content involving minors
@@ -32,8 +30,7 @@ Violations result in:
 
 ---
 
-## 3. In-App Reporting Tools.
-
+## 3. In-App Reporting Tools
 Users can report:
 
 - Suspected minors
@@ -45,8 +42,7 @@ These reports are reviewed by Bondi’s safety team. Urgent issues are escalated
 
 ---
 
-## 4. Moderation & Enforcement.
-
+## 4. Moderation & Enforcement
 Bondi uses:
 
 - Selfie verification to reduce fake or underage accounts
@@ -58,8 +54,7 @@ We continually improve our detection mechanisms to maintain a safe environment.
 
 ---
 
-## 5. Cooperation With Law Enforcement.
-
+## 5. Cooperation With Law Enforcement
 Bondi complies with:
 
 - Local and international laws on child safety
@@ -74,17 +69,15 @@ When required, we:
 
 ---
 
-## 6. How to Report CSAE Concerns.
+## 6. How to Report CSAE Concerns
+- If you believe a user poses a risk to minors or is engaging in CSAE-related behavior, report them immediately using the in-app reporting tools.
 
-If you believe a user poses a risk to minors or is engaging in CSAE-related behavior, report them immediately using the in-app reporting tools.
-
-For urgent or serious issues, you may also contact us directly: [bondi.dating@gmail.com](mailto:bondi.dating@gmail.com)
+- For urgent or serious issues, you may also contact us directly: [bondi.dating@gmail.com](mailto:bondi.dating@gmail.com)
 (Designated contact for CSAE safety matters)
 
 ---
 
-## 7. Commitment to Continuous Safety.
-
+## 7. Commitment to Continuous Safety
 Bondi actively works to improve user safety by:
 
 - Reviewing policies regularly
